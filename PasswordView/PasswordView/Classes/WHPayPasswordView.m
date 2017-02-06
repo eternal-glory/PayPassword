@@ -75,19 +75,6 @@ static NSString * const MONEYNUMBERS = @"0123456789";
     return self;
 }
 
-- (instancetype)initWithCoder:(NSCoder *)aDecoder {
-   
-    if (self = [super initWithCoder:aDecoder]) {
-        
-        self.saveStore = [NSMutableString string];
-        self.rectColor = [UIColor colorWithRed:54.0/255.0 green:59.0/255.0 blue:87.0/255.0 alpha:1.0];
-        self.pointColor = [UIColor colorWithRed:54.0/255.0 green:59.0/255.0 blue:87.0/255.0 alpha:1.0];
-        
-        [self becomeFirstResponder];
-    }
-    
-    return self;
-}
 
 /** 设置正方形的边长 */
 - (void)setSquareSize:(CGFloat)squareSize {

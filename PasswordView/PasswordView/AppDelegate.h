@@ -1,7 +1,8 @@
 //
 //  AppDelegate.h
-//  PayPassword
+//  PasswordView
 //
+//  Created by 西太科技 on 2017/2/6.
 //  Copyright © 2017年 lei wenhao. All rights reserved.
 //
 

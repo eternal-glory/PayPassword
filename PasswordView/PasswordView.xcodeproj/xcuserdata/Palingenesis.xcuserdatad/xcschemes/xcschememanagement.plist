@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PayPassword.xcscheme</key>
+		<key>PasswordView.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>FDA8E25B1E30BC3D009224F3</key>
+		<key>FD1C3AD01E485CB5008FC511</key>
 		<dict>
 			<key>primary</key>
 			<true/>
